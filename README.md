@@ -24,7 +24,7 @@ Follow these steps to run the tests using Visual Studio Code:
 1. Open the project folder in Visual Studio Code:
 
    ```bash
-   code xtramile-selenium-csharp
+   code xtramile-csharp-selenium
    ```
 
 2. Open a new terminal in Visual Studio Code.

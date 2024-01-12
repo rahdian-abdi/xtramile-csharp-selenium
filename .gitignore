@@ -1,0 +1,9 @@
+# Build output
+bin/
+obj/
+
+# Ignore Visual Studio project and solution files
+*.sln
+*.csproj
+*.csproj.user
+.vscode/
